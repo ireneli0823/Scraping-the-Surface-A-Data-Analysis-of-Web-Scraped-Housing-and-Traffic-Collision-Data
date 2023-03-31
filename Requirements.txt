@@ -1,0 +1,6 @@
+Installment for some libraries:
+
+pip3 install pandas
+pip install BeautifulSoup4
+python -m pip install statsmodels
+python -m pip install seaborn
