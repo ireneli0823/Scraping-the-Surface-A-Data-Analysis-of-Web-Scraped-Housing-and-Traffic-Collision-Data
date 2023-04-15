@@ -1,6 +1,13 @@
-Installment for some libraries:
-
-pip3 install pandas
-pip install BeautifulSoup4
-python -m pip install statsmodels
-python -m pip install seaborn
+sys
+pandas
+numpy
+csv
+requests
+BeautifulSoup
+json
+statsmodels.api
+stats
+time 
+Counter
+seaborn
+matplotlib.pyplot
