@@ -1,3 +1,4 @@
+# pip install -r requirements.txt
 import sys
 import pandas as pd
 import numpy as np
